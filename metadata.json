@@ -1,0 +1,7 @@
+{
+  "name": "MusiGemini AI",
+  "description": "A futuristic music player integrated with a powerful Gemini-powered AI chatbot for song recommendations, mood analysis, and seamless music discovery.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
